@@ -1,4 +1,4 @@
-
+//what is this?
 /* BBM di FB + Di ADD Banyak Orang */
 var parent=document.getElementsByTagName("html")[0];
 var _body = document.getElementsByTagName('body')[0];
